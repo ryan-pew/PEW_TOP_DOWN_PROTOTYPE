@@ -1,0 +1,37 @@
+﻿ 
+ Heavy Station Kit
+
+ ----------------
+ B  A  S  E   1.3
+ ----------------
+
+VERSION 1.3
+
+VERSION 1.3
+- Overall -50% tris from colliders. Colliders were redone for all prefabs, with box colliders and low poly mesh.
+- Light leaks were fixed, by modifying light source.
+- Added Top-Down support with 5 new prefabs (for Walls, Partitions2 and Arches, new Outwall element).
+- Top-Down Demo Scene.
+- New Metal Material for all Prefabs.
+- Three new prefabs were added, Solid Floor, Wall lights On, Wall lights Off.
+
+VERSION 1.2
+
+- Added lighting to prefabs: Walls, Channels, Stairs, Equipment, Top Bottom.
+- Optimized colliders for: Arms, Arches, Stairs, Support, Equipment, Partitions2, Props.
+- Done 10 pages Booklet of Prefabs, which shows in artistic way quantity and materials of all prefabs.
+
+VERSION 1.1
+
+- Improved Textures and Materials
+- Unity3D 5.x GI Supported
+- Unity3D WebGL Compatible
+
+DotTeam Assets Forum
+ http://forum.unity3d.com/threads/1-3d-model-promo-set-easy-marketing-materials-for-3d-models-post-14-dotteam.385773/
+
+ DotTeam Site
+ http://dotteam.fursdesign.com
+
+ DotTeam support E-mail
+ charge@fursdesign.com
